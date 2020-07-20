@@ -9,7 +9,7 @@
 
 -   💻  I'm currently working with PHP Laravel.
 -   📚  Studying Node, React e React Native.
--   💪🏻  Always trying to help other developers the best I can.
+-   💪🏻  Constantly assisting other developers the best I can.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/azevedomarcelo](https://github.com/azevedomarcelo))](https://github.com/azevedomarcelo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/marcelo-azevedo-9184a763/](https://www.linkedin.com/in/marcelo-azevedo-9184a763/))](https://www.linkedin.com/in/marcelo-azevedo-9184a763/)

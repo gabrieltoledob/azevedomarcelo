@@ -2,8 +2,8 @@
 
 ## Hello World! I'm Marcelo! 🙋🏻‍♂️
 
-👨🏻‍💻 Full Stack Developer.
-👨🏻‍🎨 UI/UX Designer
+-  👨🏻‍💻 Full Stack Developer.
+-  👨🏻‍🎨 UI/UX Designer.
  
 ## About me 
 

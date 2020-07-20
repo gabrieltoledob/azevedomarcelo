@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/azevedomarcelo/azevedomarcelo/master/developer.png">
+<img align="right" width="480" height="350" src="https://raw.githubusercontent.com/azevedomarcelo/azevedomarcelo/master/developer.png">
 
 ## Hello World! I'm Marcelo! 🙋🏻‍♂️
 
